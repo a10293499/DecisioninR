@@ -1,5 +1,5 @@
 ---
-title: "Decision tree and randomforest in R"
+title: "心臟病發作風險預測：決策樹優化分析 (R Language)"
 format: 
   html:
     embed-resources: true  # 關鍵：這會將圖片、CSS 全部打包進一個 HTML 檔
@@ -15,7 +15,7 @@ format:
 
 ## 目標
 
--   以變數(年齡 性別 胸痛類型 血壓...等)建立模型(決策樹及隨機森林)，預測心臟病發作的機會減少或增加
+-   以變數(年齡 性別 胸痛類型 血壓...等)建立決策樹模型，預測心臟病發作的機會減少或增加
 
 ## 方法步驟
 
